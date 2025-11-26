@@ -3,7 +3,7 @@
 
 
 <div align="center" style="text-align: center; margin-bottom: 50px;">
-  <img src="https://notebook.link/assets/hero-astro-ufSPVElk.svg" alt="Example" width="500px">
+  <img src="./assets/hero-astro.svg" alt="Example" width="500px">
 </div >
 
 \
