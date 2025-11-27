@@ -15,8 +15,8 @@
 ## Try It Now
 
 Launch an example or your own repo in seconds using [this form](https://notebook.link/docs/#give-it-a-try):  
-- Paste any public GitHub URL (e.g. [notebook-link/example](https://github.com/notebook-link/example))  
-- Click on **Launch on Notebook.link** button
+- Paste any public GitHub URL (e.g. [notebook-link/example](https://github.com/notebook-link/example)).
+- Click on **Launch on Notebook.link** button.
 
 ## Highlights
 
