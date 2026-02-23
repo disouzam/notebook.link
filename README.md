@@ -45,8 +45,8 @@ Launch an example or your own repo in seconds using [this form](https://notebook
 
 ## Learn More
 
-Visit the full documentation for guides, examples, and troubleshooting:  
-➡️ **[notebook.link/docs](https://notebook.link/docs/)**
+- Visit the full documentation for guides, examples, and troubleshooting:  ➡️ **[notebook.link/docs](https://notebook.link/docs/)**
+- Use the official GitHub App for sharing private repositories: ➡️ **https://github.com/apps/notebook-link**
 
 ## Support & Community
 
